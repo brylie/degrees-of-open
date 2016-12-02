@@ -29,6 +29,7 @@ Some examples of SDKs:
 - a company with cloud based computation resources might give developers an SDK to create and consume the cloud service
 
 ## Sourcecode
+Offering sourcecode means that the public benefits from some software solution that performs a specific task. Having access source code means that people can learn how the software works. There are additional freedoms that can be granted along with source code access. Those freedoms are usually granted in the form of a software license.
 
 ### License
 
