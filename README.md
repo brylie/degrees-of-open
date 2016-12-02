@@ -26,6 +26,7 @@ A standard developer kit (SDK) is a bit of code that interfaces with a larger sy
 
 Some examples of SDKs:
 - a company with a proprietery database platform might offer developers an SDK to use their database as a service
+- a company with cloud based computation resources might give developers an SDK to create and consume the cloud service
 
 ## Sourcecode
 
