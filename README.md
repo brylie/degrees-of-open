@@ -2,15 +2,21 @@
 
 ## "Open for business."
 
-People can use your product - possibly with 'free tier'
+People can use your product - possibly with 'free tier'. Open for business is similar to 'come in'. It is welcoming and friendly, but does not imply any other access or rights.
 
 ## Use some open source
 
-Product or infrastructure includes open source components
+Product or infrastructure includes open source components.
+
+Companies might quickly realize the benefit of using open source components. It saves them time and money.
+
+When companies adopt open source, it also benefits the community. Benefits come in the form of a network effect, where the community grows. It is also an early step towards contribution.
 
 ## API
 
 Some data/functionality is accessible via API
+
+An 'open api' implies that some of the product data or logic is exposed to the public. There may be a layer of authentication, for various reasons. The bulk of the 'business value' is still closed, or controlled, by the API owner.
 
 ## SDK
 
