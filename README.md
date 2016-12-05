@@ -28,6 +28,10 @@ Some examples of SDKs:
 - a company with a proprietery database platform might offer developers an SDK to use their database as a service
 - a company with cloud based computation resources might give developers an SDK to create and consume the cloud service
 
+## Open Access
+Open Access can imply a spectrum of privileges. As a minimum, an Open Access resource should be publicly accessible, and possibly require a user registration to participate. For example the Open Educational Resources often require that people can access the learning materials without 'unnecessary technological
+encumbrance'. This means that nothing should block a person from freely accessing a resource, other than minimum technical requirements such as Internet access. This same line of reasoning applies to Open Access journals, such as the Public Library of Science.
+
 ## Sourcecode
 Offering sourcecode means that the public benefits from some software solution that performs a specific task. Having access source code means that people can learn how the software works. There are additional freedoms that can be granted along with source code access. Those freedoms are usually granted in the form of a software license.
 
