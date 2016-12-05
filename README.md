@@ -78,8 +78,13 @@ Offering sourcecode means that the public benefits from some software solution t
 ## Finances
 
 ## Governance
+Open Governance means that stakeholders are free to participate in the decision- making process for a shared project or resource. In practice, this may come in the form of a shared roadmap or some more formal process such as voting.
 
 ### Membership
+Membership requirements may be introduced in a governance process. This gives stakeholders a means to determine eligibility requirements for participants, such as a minimum level of activity or contribution required to retain decisition making rights.
 
 ### Stakeholder involvement
 Members and stakeholders can participate in decision making (voting power) process.
+
+### Federation
+Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups.
