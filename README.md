@@ -1,4 +1,10 @@
-# Degrees of Open
+# Open and Free
+- inwardly open
+  - visible inner workings
+- outwardly open
+  - come and go freely
+- outward freedom
+  - freedom to grow
 
 ## "Open for business."
 
@@ -86,5 +92,8 @@ Membership requirements may be introduced in a governance process. This gives st
 ### Stakeholder involvement
 Members and stakeholders can participate in decision making (voting power) process.
 
-### Federation
+### Independence
+It is also important that stakeholds are free to work independently from the main group.
+
+#### Federation
 Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups.
