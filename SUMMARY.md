@@ -1,6 +1,6 @@
 # Summary
 
-## Inwardly Open
+## Introduction
 
 * [Introduction](README.md)
 
