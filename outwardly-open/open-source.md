@@ -2,3 +2,20 @@ Offering sourcecode means that the public benefits from some software solution t
 
 Having access to source, such as software or statistical algorithms, is becoming increasingly important. Computer code is becoming a larger part of our lives on a daily basis. Code is in our vehicles, our bodies, and our governmental decision making processes.
 
+### License
+
+* Non-OSI approved license
+  * E.g. custom license terms similar to open source
+* OSI Approved license
+  * MIT, BSD, MPL, Apache, etc
+* Strong copyleft license
+  * E.g. GPL/AGPL
+
+### Features
+
+* Not all features open source
+  * E.g. 'Enterprise version', 'Pro version'
+* 100% features are open source
+
+
+
