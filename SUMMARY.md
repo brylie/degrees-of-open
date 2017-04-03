@@ -19,6 +19,6 @@
 
 * [Community](open-and-participatory/community-driven.md)
 * [Process](open-and-participatory/process.md)
-* Finances
+* [Finances](open-and-participatory/finances.md)
 * [Governance](open-and-participatory/governance.md)
 

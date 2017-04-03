@@ -1,4 +1,4 @@
-## Governance
+## Open Governance
 
 Open Governance means that stakeholders are free to participate in the decision- making process for a shared project or resource. In practice, this may come in the form of a shared roadmap or some more formal process such as voting.
 
