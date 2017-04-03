@@ -1,3 +1,7 @@
+# Open for developers
+
+Businesses and projects can create openings for software developers to interact with their software.
+
 ## API
 
 > Some data/functionality is accessible via API
