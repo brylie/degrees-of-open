@@ -1,6 +1,6 @@
 # Use some open source
 
-> # Product or infrastructure includes open source components.
+> Product or infrastructure includes open source components.
 
 Companies might quickly realize the benefit of using open source components. It saves them time and money.
 
