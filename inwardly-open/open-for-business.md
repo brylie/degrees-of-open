@@ -1,4 +1,4 @@
-## "Open for business."
+# "Open for business."
 
 > People are welcome to access the business or product.
 
