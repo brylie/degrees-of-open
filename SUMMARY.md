@@ -13,7 +13,7 @@
 ## Outwardly Open
 
 * [Open Access](outwardly-open/open-access.md)
-* Open Source
+* [Open Source](outwardly-open/open-source.md)
 
 ## Open and Participatory
 
