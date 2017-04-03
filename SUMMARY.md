@@ -8,7 +8,7 @@
 
 * [Open for Business](inwardly-open/open-for-business.md)
 * [Use open-source](inwardly-open/use-open-source.md)
-* Open API/SDK
+* [Open API/SDK](inwardly-open/open-apisdk.md)
 
 ## Outwardly Open
 
