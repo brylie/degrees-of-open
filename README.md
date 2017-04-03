@@ -4,7 +4,5 @@ Openness, and freedom, are inherently fuzzy concepts, under active evolution. Wh
 
 ## License
 
-This book is dedicated to the **Public Domain**.
-
-
+This book is dedicated to the **Public Domain**. You are free to share and modify the text in any way you see fit, with no restrictions.
 
