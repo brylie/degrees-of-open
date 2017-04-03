@@ -1,10 +1,10 @@
-## Open process
+# Open process
 
-### Design
+## Design
 
 * e.g. wireframes, styleguide
 
-### Planning
+## Planning
 
 * Roadmap/vision
 * Meeting minutes
