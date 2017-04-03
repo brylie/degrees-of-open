@@ -6,7 +6,7 @@
 
 ## Inwardly Open
 
-* Open for Business
+* [Open for Business](inwardly-open/open-for-business.md)
 * Use open-source
 * Open API/SDK
 
