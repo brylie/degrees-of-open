@@ -10,9 +10,9 @@ An 'open api' implies that some of the product data or features are exposed to t
 
 ## SDK
 
-> Some features can be integrated into other tools or systems via a Standard Development Kit (SDK)
+> Some features can be integrated into other tools or systems via a Software Development Kit (SDK)
 
-A standard developer kit \(SDK\) is a bit of code that interfaces with a larger system. The SDK acts as series of levers that can be used to integrate with another system. The SDK does not provide the main funcitonality, since it is just an interface, any more than a steering wheel and clutch provides a car. Offering an open source SDK means that developers can build on your larger system.
+A Software Development Kit \(SDK\) is a bit of code that interfaces with a larger system. The SDK acts as series of levers that can be used to integrate with another system. The SDK does not provide the main funcitonality, since it is just an interface, any more than a steering wheel and clutch provides a car. Offering an open source SDK means that developers can build on your larger system.
 
 Some examples of SDKs:
 
