@@ -2,13 +2,15 @@
 
 Businesses and projects can create openings for software developers to interact with their software.
 
-## API
+## Application Programming Interface
 
-> Some data/features are accessible via an Application Programming Interfae (API)
+> Some data/features are accessible via an Application Programming Interface
+
+ (API)
 
 An 'open api' implies that some of the product data or features are exposed to the public. There may be a layer of authentication, for various reasons. The bulk of the 'business value' is still closed, or controlled, by the API owner.
 
-## SDK
+## Software Development Kit
 
 > Some features can be integrated into other tools or systems via a Software Development Kit (SDK)
 
