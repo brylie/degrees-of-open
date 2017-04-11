@@ -24,5 +24,5 @@
 
 ## Appendix
 
-* [GLOSSARY](appendix/glossary.md)
+* [GLOSSARY](GLOSSARY.md)
 
