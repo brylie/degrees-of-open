@@ -1,4 +1,4 @@
-# Open for developers
+********# Open for developers
 
 Businesses and projects can create openings for software developers to interact with their software.
 
@@ -6,7 +6,7 @@ Businesses and projects can create openings for software developers to interact 
 
 > Some data/functionality is accessible via API
 
-An 'open api' implies that some of the product **data** or **functionality** is exposed to the public. There may be a layer of **authentication**, for various reasons. The bulk of the 'business value' is still closed, or controlled, by the API owner.
+An 'open api' implies that some of the product data or functionality is exposed to the public. There may be a layer of authentication, for various reasons. The bulk of the 'business value' is still closed, or controlled, by the API owner.
 
 ## SDK
 
