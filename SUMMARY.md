@@ -22,3 +22,7 @@
 * [Finances](open-and-participatory/finances.md)
 * [Governance](open-and-participatory/governance.md)
 
+## Appendix
+
+* [GLOSSARY](appendix/glossary.md)
+
