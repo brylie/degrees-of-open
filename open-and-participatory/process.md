@@ -4,6 +4,8 @@ Open Process encompasses many parts of **project management** and **governance**
 
 ## Design
 
+The design process covers conceptual and aesthetic decisions related to a project. Design artefacts include **wireframes**, **styleguide**, **mock-ups**, **user stories**, and **user interviews** \(usually preserving anonyminity\)**.**
+
 * e.g. wireframes, styleguide
 
 ## Planning
