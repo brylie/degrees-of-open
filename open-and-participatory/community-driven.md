@@ -10,6 +10,8 @@ Community thrives through regular contact and sharing. In order to build a succe
 
 > Provide a process to describe, clarify, improve, and prioritize ideas
 
+Ideas are not formed in a vacuum. It is important to develop ideas through feedback and communication. That way, the burden is shared among the community, and our ideas can reach a more full potential than if developed in isolation.
+
 ## Pull requests accepted
 
 * Community start to take ownership
