@@ -12,7 +12,7 @@ Membership requirements may be introduced in a governance process. This gives st
 
 > Stakeholders are informed of upcoming decisions and may contribute to their outcomes
 
-Members and stakeholders can participate in decision making \(voting power\) process[^2][^3]. This means including stakeholders in regular meetings or communications, with advance notification where possible.
+There are many different ways that projects and organizations make decisions[^2]. As a basic principle, members and stakeholders can participate in decision making \(voting power\) process[^3]. This means including stakeholders in regular meetings or communications, with advance notification where possible.
 
 ## Independence
 
@@ -29,7 +29,9 @@ Federation allows contributors to govern the project as a loose consortium, and 
 
 [^1]: [The Loomio Co-op Handbook](https://loomio.coop/)
 
-[^2]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+[^2]: [Emergent decision-making practices in Free/Libre Open Source Software FLOSS development teams](https://crowston.syr.edu/content/emergent-decision-making-practices-freelibre-open-source-software-floss-development-teams)
 
-[^3]: [Emergent decision-making practices in Free/Libre Open Source Software FLOSS development teams](https://crowston.syr.edu/content/emergent-decision-making-practices-freelibre-open-source-software-floss-development-teams)
+[^3]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+
 
