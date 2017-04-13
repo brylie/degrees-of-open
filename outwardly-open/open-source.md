@@ -18,12 +18,17 @@ Some projects are released under custom license terms similar to open source. Th
 
 ### Certified licenses
 
-The Open Source initiative and Free Software Foundation maintain lists of common, certified licenses. It is advisable to simply adopt an existing license from either or both of the [OSI Approved](https://opensource.org/licenses) or [FSF certified](https://www.gnu.org/licenses/license-list.html) licenses lists.
+The Open Source initiative and Free Software Foundation maintain lists of common, certified licenses. It is advisable to simply adopt an existing license from either or both of the [OSI Approved](https://opensource.org/licenses) or [FSF certified](https://www.gnu.org/licenses/license-list.html) licenses lists, such as:
 
+* MIT, 
+* BSD, 
+* MPL, 
+* Apache
 
-  * MIT, BSD, MPL, Apache, etc
-* Strong copyleft license
-  * E.g. GPL/AGPL
+### Strong copyleft license
+Among the OSI and FSF approved licenses, a few offer stronger protections. These licenses, while sometimes controvertial are intended to preserve access to source code for people, in a similar way to how public parks and natural lands are preserved for the common good. These licenses include:
+* GNU GPL
+* GNU AGPL
 
 ## Features
 
