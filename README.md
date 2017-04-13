@@ -4,11 +4,11 @@ Openness, and freedom, are inherently fuzzy concepts, under active evolution. Wh
 
 This book is intended as an overview of common patterns related to freedom and openness, with particular emphasis on business and technology.
 
-## Openness is a continuum
+## Openness is a continuum {#openness-continuum}
 
 Often, people/companies start by embracing openness \(e.g. open source\) out of convenience, or for other pragmatic reasons. By viewing openness as a continuum, we realize it is possible to extend the practice of openness from inward to outward. We can eventually "turn over the keys to the community" or even let go entirely.
 
-## License
+## License {#license}
 
 This book is dedicated to the **Public Domain**. You are free to share and modify the text in any way you see fit, with no restrictions.
 
