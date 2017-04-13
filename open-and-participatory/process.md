@@ -10,8 +10,11 @@ Design artefacts may prove useful to other projects, so re-use, transformation, 
 
 ## Planning
 
-* Roadmap/vision
-* Meeting minutes
+Projects and organizations must make plans to succeed. In an open process, the plans, on both large and small timescales, are visible to the community. This might include short-term plans like a sprint backlog or long-term plans including a project roadmap.
+
+
+
+
 
 ## 
 
