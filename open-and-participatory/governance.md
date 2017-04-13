@@ -8,7 +8,7 @@ Membership requirements may be introduced in a governance process. This gives st
 
 ## Stakeholder involvement
 
-Members and stakeholders can participate in decision making \(voting power\) process.
+Members and stakeholders can participate in decision making \(voting power\) process. This means including stakeholders in regular meetings or communications, with advance notification where possible.
 
 ## Independence
 
