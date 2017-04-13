@@ -14,7 +14,7 @@ Ideas are not formed in a vacuum. It is important to develop ideas through feedb
 
 ## Pull requests welcome
 
-* Community start to take ownership
+> Allow Community contribute and start to take ownership
 
 
 
