@@ -8,7 +8,7 @@ Community thrives through regular contact and sharing. In order to build a succe
 
 ## Ideas and feedback
 
-* Voting, prioritization
+> Provide a process to describe, clarify, improve, and prioritize ideas
 
 ## Pull requests accepted
 
