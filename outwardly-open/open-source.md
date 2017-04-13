@@ -19,7 +19,5 @@ Having access to source, such as software or statistical algorithms, is becoming
   * E.g. 'Enterprise version', 'Pro version'
 * 100% features are open source
 
-## 
-
 
 
