@@ -38,6 +38,8 @@ Among the OSI and FSF approved licenses, a few offer stronger protections. These
 
 ## Features
 
+> Most or, preferably, all of the software features are available under an open-source license
+
 In addition to license terms, it is important to define what components, or features, of the project are freely available. There are at least a couple of common approaches:
 
 * Not all features open source
