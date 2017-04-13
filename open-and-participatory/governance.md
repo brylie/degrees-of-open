@@ -16,5 +16,5 @@ It is important that stakeholds are free to work independently from the main gro
 
 ## Federation
 
-Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups.
+Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups. Federated groups tend to work together to a certain extent, sharing knowledge and resources.
 
