@@ -6,5 +6,5 @@ Businesses often use the word **open** to say "come in, we're open". In effect t
 
 ![](/assets/open-come-in-300px.png)
 
-Being "open for business" does not imply any other access permissions or rights.
+Being "open for business" does not imply any other access permissions or rights, but is a first step in community involvement.
 
