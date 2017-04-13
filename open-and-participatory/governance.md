@@ -1,6 +1,6 @@
 # Open Governance
 
-Open Governance means that stakeholders are free to participate in the decision- making process for a shared project or resource. In practice, this may come in the form of a shared roadmap or some more formal process such as voting.
+Open Governance means that stakeholders are free to participate in the decision- making process for a shared project or resource. In practice, this may come in the form of a shared roadmap or some more formal process such as voting. Governance includes social processes such as collaboration, standards of conduct, employment, and management[^1].
 
 ## Membership
 
@@ -12,7 +12,7 @@ Membership requirements may be introduced in a governance process. This gives st
 
 > Stakeholders are informed of upcoming decisions and may contribute to their outcomes
 
-Members and stakeholders can participate in decision making \(voting power\) process[^1]. This means including stakeholders in regular meetings or communications, with advance notification where possible.
+Members and stakeholders can participate in decision making \(voting power\) process[^2]. This means including stakeholders in regular meetings or communications, with advance notification where possible.
 
 ## Independence
 
@@ -26,5 +26,8 @@ It is important that stakeholds are free to work independently from the main gro
 
 Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups. Federated groups tend to work together to a certain extent, sharing knowledge and resources.
 
-[^1]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
+
+[^1]: [The Loomio Co-op Handbook](https://loomio.coop/)
+
+[^2]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
