@@ -12,7 +12,7 @@ Members and stakeholders can participate in decision making \(voting power\) pro
 
 ## Independence
 
-It is important that stakeholds are free to work independently from the main group.
+It is important that stakeholds are free to work independently from the main group. They can form working groups relevant to their needs or expertise. If desired, stakeholder groups can work completely intependently of the primary organization, forming their own initiative.
 
 ## Federation
 
