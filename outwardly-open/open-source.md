@@ -1,4 +1,5 @@
 # Open Source
+
 > The code regulates. It implements values, or not. It enables freedoms, or disables them. It protects privacy, or promotes monitoring. People choose how the code does these things. People write the code.
 >
 > Lawrence Lessig [Code is Law](http://harvardmagazine.com/2000/01/code-is-law-html)
@@ -8,13 +9,14 @@ Offering sourcecode means that the public benefits from some software solution t
 Having access to source, such as software or statistical algorithms, is becoming increasingly important. Computer code is becoming a larger part of our lives on a daily basis. Code is in our vehicles, our bodies, and our governmental decision making processes.
 
 ## License
+
 In order for people to freely use code, the code must be provided with explicit terms, removing implicit Copyright restrictions. The terms of use, called license, can be rather complicated to write, so it is advisable to adopt an existing Open Source/Free Software license.
 
 The licenses fall in to several categories:
 
 ### Non-OSI approved license
-Some projects are released under custom license terms similar to open source. This is not advisable, as it leads to 'license proliferation'. It may also lead to unintentional or intentional incompatibilies between projects.
 
+Some projects are released under custom license terms similar to open source. This is not advisable, as it leads to 'license proliferation'. It may also lead to unintentional or intentional incompatibilies between projects.
 
 ### Certified licenses
 
@@ -26,7 +28,9 @@ The Open Source initiative and Free Software Foundation maintain lists of common
 * Apache
 
 ### Strong copyleft license
+
 Among the OSI and FSF approved licenses, a few offer stronger protections. These licenses, while sometimes controvertial are intended to preserve access to source code for people, in a similar way to how public parks and natural lands are preserved for the common good. These licenses include:
+
 * GNU GPL
 * GNU AGPL
 
