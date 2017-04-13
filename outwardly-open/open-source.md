@@ -10,6 +10,8 @@ Having access to source, such as software or statistical algorithms, is becoming
 
 ## License
 
+> Project/organization resources are licensed to remove Copyright impediments
+
 In order for people to freely use code, the code must be provided with explicit terms, removing implicit Copyright restrictions. The terms of use, called license, can be rather complicated to write, so it is advisable to adopt an existing Open Source/Free Software license.
 
 The licenses fall in to several categories:
