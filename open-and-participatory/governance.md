@@ -12,7 +12,7 @@ Membership requirements may be introduced in a governance process. This gives st
 
 > Stakeholders are informed of upcoming decisions and may contribute to their outcomes
 
-Members and stakeholders can participate in decision making \(voting power\) process. This means including stakeholders in regular meetings or communications, with advance notification where possible.
+Members and stakeholders can participate in decision making \(voting power\) process[^1]. This means including stakeholders in regular meetings or communications, with advance notification where possible.
 
 ## Independence
 
@@ -25,4 +25,6 @@ It is important that stakeholds are free to work independently from the main gro
 > There is a framework in place to encourage collaboration and resource sharing between groups of stakeholders
 
 Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups. Federated groups tend to work together to a certain extent, sharing knowledge and resources.
+
+[^1]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
