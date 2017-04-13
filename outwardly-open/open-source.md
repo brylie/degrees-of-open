@@ -12,9 +12,15 @@ In order for people to freely use code, the code must be provided with explicit 
 
 The licenses fall in to several categories:
 
-* Non-OSI approved license
-  * E.g. custom license terms similar to open source
-* OSI Approved license
+### Non-OSI approved license
+Some projects are released under custom license terms similar to open source. This is not advisable, as it leads to 'license proliferation'. It may also lead to unintentional or intentional incompatibilies between projects.
+
+
+### Certified licenses
+
+The Open Source initiative and Free Software Foundation maintain lists of common, certified licenses. It is advisable to simply adopt an existing license from either or both of the [OSI Approved](https://opensource.org/licenses) or [FSF certified](https://www.gnu.org/licenses/license-list.html) licenses lists.
+
+
   * MIT, BSD, MPL, Apache, etc
 * Strong copyleft license
   * E.g. GPL/AGPL
