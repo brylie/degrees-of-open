@@ -18,4 +18,4 @@ Ideas are not formed in a vacuum. It is important to develop ideas through feedb
 
 Besides ideas, community members have a lot to contribute. Contributions can be time or resources, such as money, code, and other skills.
 
-As people contribute their time and resources to a project or organization, they develop of shared ownership, of belonging.
+As people contribute their time and resources to a project or organization, they develop a sense of shared ownership and belonging.
