@@ -1,4 +1,7 @@
 # Open Source
+> The code regulates. It implements values, or not. It enables freedoms, or disables them. It protects privacy, or promotes monitoring. People choose how the code does these things. People write the code.
+>
+> Lawrence Lessig [Code is Law](http://harvardmagazine.com/2000/01/code-is-law-html)
 
 Offering sourcecode means that the public benefits from some software solution that performs a specific task. Having access source code means that people can learn how the software works. There are additional freedoms that can be granted along with source code access. Those freedoms are usually granted in the form of a software license.
 
