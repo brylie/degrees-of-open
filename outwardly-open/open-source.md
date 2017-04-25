@@ -28,10 +28,7 @@ The Open Source initiative and Free Software Foundation maintain lists of common
 
 ### Strong copyleft license
 
-Among the OSI and FSF approved licenses, a few offer stronger protections. These licenses, while sometimes controvertial are intended to preserve access to source code for people, in a similar way to how public parks and natural lands are preserved for the common good. These licenses include:
-
-* GNU GPL
-* GNU AGPL
+Among the OSI and FSF approved licenses, a few offer [stronger protections](https://en.wikipedia.org/wiki/Copyleft#Strong_and_weak_copyleft). These licenses, while sometimes controvertial are intended to preserve access to source code for people, in a similar way to how public parks and natural lands are preserved for the common good.
 
 ## Features
 
