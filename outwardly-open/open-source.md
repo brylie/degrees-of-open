@@ -24,12 +24,7 @@ Some projects are released under custom license terms similar to open source. Th
 
 ### Certified licenses
 
-The Open Source initiative and Free Software Foundation maintain lists of common, certified licenses. It is advisable to simply adopt an existing license from either or both of the [OSI Approved](https://opensource.org/licenses) or [FSF certified](https://www.gnu.org/licenses/license-list.html) licenses lists, such as:
-
-* MIT
-* BS
-* MPL
-* Apache
+The Open Source initiative and Free Software Foundation maintain lists of common, certified licenses. It is advisable to simply adopt an existing license from either or both of the [OSI Approved](https://opensource.org/licenses) or [FSF certified](https://www.gnu.org/licenses/license-list.html) licenses lists.
 
 ### Strong copyleft license
 
