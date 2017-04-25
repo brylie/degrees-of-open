@@ -18,7 +18,7 @@ There are many different ways that projects and organizations make decisions[^2]
 
 > Stakeholders may work independently to their own ends
 
-It is important that stakeholds are free to work independently from the main group. They can form working groups relevant to their needs or expertise. If desired, stakeholder groups can work completely intependently of the primary organization, forming their own initiative.
+It is important that stakeholders are free to work independently from the main group. They can form working groups relevant to their needs or expertise. If desired, stakeholder groups can work completely independently of the primary organization, forming their own initiative.
 
 ## Federation
 
