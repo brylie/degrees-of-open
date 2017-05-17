@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -116,13 +117,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="322.79791"
-       y="516.02942"
+       y="416.02942"
        id="text4136-35-9-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138-62-1-7"
          x="322.79791"
-         y="516.02942"
+         y="416.02942"
          style="font-size:17.5px">Open Community</tspan></text>
     <text
        xml:space="preserve"
@@ -140,13 +141,13 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="335.56403"
-       y="416.56509"
+       y="515.13654"
        id="text4136-35-9-2-0-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4138-62-1-7-9-6"
          x="335.56403"
-         y="416.56509"
+         y="515.13654"
          style="font-size:17.5px">Open Finances</tspan></text>
     <text
        xml:space="preserve"
@@ -188,5 +189,47 @@
        cx="398.57144"
        cy="560.21942"
        r="211.68701" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4322"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path4395"
+         id="textPath4427"><tspan
+   id="tspan4324">Participatory</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4322-6-8"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path4395-0"
+         id="textPath4430"><tspan
+   id="tspan4324-1-7">Outward</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4322-6-8-9"
+       sodipodi:linespacing="125%"><textPath
+         xlink:href="#path4395-0-2"
+         id="textPath4433"><tspan
+   id="tspan4324-1-7-2">Inward</tspan></textPath></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 558.57143,417.3622 c 45.71429,42.85714 72.14285,122.14287 45.71428,207.85715"
+       id="path4395"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 509.3904,493.54235 c 40,40 65.71428,100.00001 32.14285,182.14286"
+       id="path4395-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 453.6761,594.97092 c 27.14287,20 44.28572,59.28573 25.00001,112.85715"
+       id="path4395-0-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
