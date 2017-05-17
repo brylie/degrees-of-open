@@ -6,7 +6,7 @@ Open Governance means that stakeholders are free to participate in the decision-
 
 > People may freely choose to become members of, or participate in, the project/organization
 
-Membership requirements may be introduced in a governance process. This gives stakeholders a means to determine eligibility requirements for participants, such as a minimum level of activity or contribution required to retain decisition making rights.
+Membership requirements may be introduced in a governance process. This gives stakeholders a means to determine eligibility requirements for participants, such as a minimum level of activity or contribution required to retain decision making rights.
 
 ## Stakeholder involvement
 
@@ -26,12 +26,9 @@ It is important that stakeholders are free to work independently from the main g
 
 Federation allows contributors to govern the project as a loose consortium, and even define their own smaller groups. Federation is a means to balance the power of the larger body with the autonomy of smaller collectives or affinity groups. Federated groups tend to work together to a certain extent, sharing knowledge and resources.
 
-
 [^1]: [The Loomio Co-op Handbook](https://loomio.coop/)
 
 [^2]: [Emergent decision-making practices in Free/Libre Open Source Software FLOSS development teams](https://crowston.syr.edu/content/emergent-decision-making-practices-freelibre-open-source-software-floss-development-teams)
 
 [^3]: [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
-
-
 
